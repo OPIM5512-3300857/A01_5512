@@ -1,5 +1,5 @@
 # A01
-This is the repo for OPIM5512 assignment 01.
+This is the repo for OPIM5512 2026Fall assignment 01.
 
 Dataset: In this assignment, we are using the California Housing dataset.
 
